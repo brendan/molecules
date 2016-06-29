@@ -21,6 +21,6 @@
   ],
   "dependencies": {
     "marked-element": "PolymerElements/marked-element#^1.0.0",
-    "prism-element": "brendan/prism-element#^1.0.0"
+    "prism-element": "brendan/prism-element#master"
   }
 }
